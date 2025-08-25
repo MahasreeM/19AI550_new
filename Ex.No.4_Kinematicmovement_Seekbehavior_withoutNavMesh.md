@@ -1,6 +1,6 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek behavior in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  19-08-2025                                                                     
+### REGISTER NUMBER : 212224110035
 ### AIM: 
 To write a program to simulate the process of seek behavior in Unity without NavigationMeshAgent. 
 ### Algorithm:
@@ -53,9 +53,13 @@ public class Script : MonoBehaviour
 ```
 ### Output:
 
+<img width="1920" height="1142" alt="exp4" src="https://github.com/user-attachments/assets/eea0efee-e5f4-4644-adef-9b813c20b3ab" />
 
+<img width="1920" height="1119" alt="exp4 1" src="https://github.com/user-attachments/assets/576712bc-350e-487f-bea4-779fc7015d05" />
 
+<img width="1920" height="1200" alt="exp4 2" src="https://github.com/user-attachments/assets/ab793f99-f3fa-4d05-8b0b-c36d7a1bb1eb" />
 
+<img width="1920" height="1200" alt="exp4 3" src="https://github.com/user-attachments/assets/d283dba3-3930-4681-87bd-dfe889737996" />
 
 
 
